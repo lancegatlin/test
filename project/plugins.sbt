@@ -1,0 +1,1 @@
+addSbtPlugin("org.lancegatlin" % "sbt-release-gitflow" % "1.0.0-SNAPSHOT")
