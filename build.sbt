@@ -1,4 +1,4 @@
-import sbtrelease.gitflow.Version.Bump.Minor
+import sbtrelease.Version.Bump.Minor
 
 scalaVersion := "2.11.6"
 
